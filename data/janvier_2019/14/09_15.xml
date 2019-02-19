@@ -1,0 +1,621 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+	<Document>
+		<totalPresent>7225</totalPresent>
+		<totalLibre>2121</totalLibre>
+		<lastUpdate>lun., 14 janv. 2019 09:14:01 +0100</lastUpdate>
+		<Quartier>
+			<nomQuartier>Fontvieille</nomQuartier>
+			<totalLibresQuartier>458</totalLibresQuartier>
+			<totalPresentsQuartier>2250</totalPresentsQuartier>
+			<totalPresentsHorairesQuartier>541</totalPresentsHorairesQuartier>
+			<totalPresentsAbonnesQuartier>1709</totalPresentsAbonnesQuartier>
+			<Parc>
+				<numParc>124</numParc>
+				<libelleParc>ECOLES RDC</libelleParc>
+				<statusParc>LIBRE</statusParc>
+				<placesLibresParc>25</placesLibresParc>
+				<placesLibresUpdate>2019-01-14 09:12:50.358851</placesLibresUpdate>
+				<presents>
+					<presentsUpdate>2019-01-14 09:13:37.443798</presentsUpdate>
+					<presentsTotal>42</presentsTotal>
+					<presentsAbonnes>21</presentsAbonnes>
+					<presentsHoraires>21</presentsHoraires>
+				</presents>
+			</Parc>
+			<Parc>
+				<numParc>13</numParc>
+				<libelleParc>PAPALINS</libelleParc>
+				<statusParc>LIBRE</statusParc>
+				<placesLibresParc>5</placesLibresParc>
+				<placesLibresUpdate>2019-01-14 09:12:50.080787</placesLibresUpdate>
+				<presents>
+					<presentsUpdate>2019-01-14 09:13:11.593503</presentsUpdate>
+					<presentsTotal>262</presentsTotal>
+					<presentsAbonnes>234</presentsAbonnes>
+					<presentsHoraires>28</presentsHoraires>
+				</presents>
+			</Parc>
+			<Parc>
+				<numParc>14</numParc>
+				<libelleParc>STADE</libelleParc>
+				<statusParc>LIBRE</statusParc>
+				<placesLibresParc>40</placesLibresParc>
+				<placesLibresUpdate>2019-01-14 09:12:50.089889</placesLibresUpdate>
+				<presents>
+					<presentsUpdate>2019-01-14 09:13:37.241965</presentsUpdate>
+					<presentsTotal>991</presentsTotal>
+					<presentsAbonnes>806</presentsAbonnes>
+					<presentsHoraires>185</presentsHoraires>
+				</presents>
+			</Parc>
+			<Parc>
+				<numParc>21</numParc>
+				<libelleParc>PORT</libelleParc>
+				<statusParc>LIBRE</statusParc>
+				<placesLibresParc>20</placesLibresParc>
+				<placesLibresUpdate>2019-01-14 09:12:50.137643</placesLibresUpdate>
+				<presents>
+					<presentsUpdate>2019-01-14 09:13:37.2672</presentsUpdate>
+					<presentsTotal>158</presentsTotal>
+					<presentsAbonnes>135</presentsAbonnes>
+					<presentsHoraires>23</presentsHoraires>
+				</presents>
+			</Parc>
+			<Parc>
+				<numParc>24</numParc>
+				<libelleParc>ECOLES</libelleParc>
+				<statusParc>LIBRE</statusParc>
+				<placesLibresParc>8</placesLibresParc>
+				<placesLibresUpdate>2019-01-14 09:12:50.155898</placesLibresUpdate>
+				<presents>
+					<presentsUpdate>2019-01-14 09:13:37.275777</presentsUpdate>
+					<presentsTotal>53</presentsTotal>
+					<presentsAbonnes>52</presentsAbonnes>
+					<presentsHoraires>1</presentsHoraires>
+				</presents>
+			</Parc>
+			<Parc>
+				<numParc>25</numParc>
+				<libelleParc>ST NICOLAS</libelleParc>
+				<statusParc>LIBRE</statusParc>
+				<placesLibresParc>17</placesLibresParc>
+				<placesLibresUpdate>2019-01-14 09:12:50.164273</placesLibresUpdate>
+				<presents>
+					<presentsUpdate>2019-01-14 09:13:37.283985</presentsUpdate>
+					<presentsTotal>75</presentsTotal>
+					<presentsAbonnes>65</presentsAbonnes>
+					<presentsHoraires>10</presentsHoraires>
+				</presents>
+			</Parc>
+			<Parc>
+				<numParc>29</numParc>
+				<libelleParc>HELIPORT</libelleParc>
+				<statusParc>COMPLET</statusParc>
+				<placesLibresParc>0</placesLibresParc>
+				<placesLibresUpdate>2019-01-14 09:12:50.198293</placesLibresUpdate>
+				<presents>
+					<presentsUpdate>2019-01-14 09:13:37.300735</presentsUpdate>
+					<presentsTotal>0</presentsTotal>
+					<presentsAbonnes>55</presentsAbonnes>
+					<presentsHoraires>5</presentsHoraires>
+				</presents>
+			</Parc>
+			<Parc>
+				<numParc>30</numParc>
+				<libelleParc>C.C.F.</libelleParc>
+				<statusParc>LIBRE</statusParc>
+				<placesLibresParc>330</placesLibresParc>
+				<placesLibresUpdate>2019-01-14 09:12:50.206735</placesLibresUpdate>
+				<presents>
+					<presentsUpdate>2019-01-14 09:13:37.309444</presentsUpdate>
+					<presentsTotal>235</presentsTotal>
+					<presentsAbonnes>14</presentsAbonnes>
+					<presentsHoraires>221</presentsHoraires>
+				</presents>
+			</Parc>
+			<Parc>
+				<numParc>52</numParc>
+				<libelleParc>ST ANTOINE</libelleParc>
+				<statusParc>LIBRE</statusParc>
+				<placesLibresParc>13</placesLibresParc>
+				<placesLibresUpdate>2019-01-14 09:12:50.325144</placesLibresUpdate>
+				<presents>
+					<presentsUpdate>2019-01-14 09:13:37.367877</presentsUpdate>
+					<presentsTotal>434</presentsTotal>
+					<presentsAbonnes>382</presentsAbonnes>
+					<presentsHoraires>52</presentsHoraires>
+				</presents>
+			</Parc>
+		</Quartier>
+		<Quartier>
+			<nomQuartier>I-Cars</nomQuartier>
+			<totalLibresQuartier>46</totalLibresQuartier>
+			<totalPresentsQuartier>8</totalPresentsQuartier>
+			<totalPresentsHorairesQuartier>4</totalPresentsHorairesQuartier>
+			<totalPresentsAbonnesQuartier>4</totalPresentsAbonnesQuartier>
+			<Parc>
+				<numParc>104</numParc>
+				<libelleParc>GRIMALDI FORUM BUS</libelleParc>
+				<statusParc>LIBRE</statusParc>
+				<placesLibresParc>21</placesLibresParc>
+				<placesLibresUpdate>2019-01-14 09:12:50.341927</placesLibresUpdate>
+				<presents>
+					<presentsUpdate>2019-01-14 09:13:37.730445</presentsUpdate>
+					<presentsTotal>7</presentsTotal>
+					<presentsAbonnes>3</presentsAbonnes>
+					<presentsHoraires>4</presentsHoraires>
+				</presents>
+			</Parc>
+			<Parc>
+				<numParc>112</numParc>
+				<libelleParc>PECHEURS BUS</libelleParc>
+				<statusParc>LIBRE</statusParc>
+				<placesLibresParc>22</placesLibresParc>
+				<placesLibresUpdate>2019-01-14 09:12:50.350364</placesLibresUpdate>
+				<presents>
+					<presentsUpdate>2019-01-14 09:13:37.409756</presentsUpdate>
+					<presentsTotal>1</presentsTotal>
+					<presentsAbonnes>1</presentsAbonnes>
+					<presentsHoraires>0</presentsHoraires>
+				</presents>
+			</Parc>
+			<Parc>
+				<numParc>19</numParc>
+				<libelleParc>REGULATION BUS</libelleParc>
+				<statusParc>LIBRE</statusParc>
+				<placesLibresParc>3</placesLibresParc>
+				<placesLibresUpdate>2019-01-14 09:12:50.126616</placesLibresUpdate>
+				<presents>
+					<presentsUpdate>2010-04-16 09:17:37.639024</presentsUpdate>
+					<presentsTotal>0</presentsTotal>
+					<presentsAbonnes>Obsolete</presentsAbonnes>
+					<presentsHoraires>Obsolete</presentsHoraires>
+				</presents>
+			</Parc>
+		</Quartier>
+		<Quartier>
+			<nomQuartier>Jardin-Exotique</nomQuartier>
+			<totalLibresQuartier>293</totalLibresQuartier>
+			<totalPresentsQuartier>1279</totalPresentsQuartier>
+			<totalPresentsHorairesQuartier>278</totalPresentsHorairesQuartier>
+			<totalPresentsAbonnesQuartier>1001</totalPresentsAbonnesQuartier>
+			<Parc>
+				<numParc>127</numParc>
+				<libelleParc>CHPG 2 (BAS)</libelleParc>
+				<statusParc>LIBRE</statusParc>
+				<placesLibresParc>110</placesLibresParc>
+				<placesLibresUpdate>2019-01-14 09:12:50.367035</placesLibresUpdate>
+				<presents>
+					<presentsUpdate>2019-01-14 09:13:37.755791</presentsUpdate>
+					<presentsTotal>165</presentsTotal>
+					<presentsAbonnes>0</presentsAbonnes>
+					<presentsHoraires>165</presentsHoraires>
+				</presents>
+			</Parc>
+			<Parc>
+				<numParc>16</numParc>
+				<libelleParc>JARDIN EXOTIQUE</libelleParc>
+				<statusParc>LIBRE</statusParc>
+				<placesLibresParc>30</placesLibresParc>
+				<placesLibresUpdate>2019-01-14 09:12:50.108027</placesLibresUpdate>
+				<presents>
+					<presentsUpdate>2019-01-14 09:13:37.604507</presentsUpdate>
+					<presentsTotal>372</presentsTotal>
+					<presentsAbonnes>333</presentsAbonnes>
+					<presentsHoraires>39</presentsHoraires>
+				</presents>
+			</Parc>
+			<Parc>
+				<numParc>27</numParc>
+				<libelleParc>CHPG 1 (HAUT)</libelleParc>
+				<statusParc>COMPLET</statusParc>
+				<placesLibresParc>0</placesLibresParc>
+				<placesLibresUpdate>2019-01-14 09:12:50.181418</placesLibresUpdate>
+				<presents>
+					<presentsUpdate>2019-01-14 09:13:37.629697</presentsUpdate>
+					<presentsTotal>0</presentsTotal>
+					<presentsAbonnes>132</presentsAbonnes>
+					<presentsHoraires>0</presentsHoraires>
+				</presents>
+			</Parc>
+			<Parc>
+				<numParc>34</numParc>
+				<libelleParc>GARE</libelleParc>
+				<statusParc>LIBRE</statusParc>
+				<placesLibresParc>54</placesLibresParc>
+				<placesLibresUpdate>2019-01-14 09:12:50.240913</placesLibresUpdate>
+				<presents>
+					<presentsUpdate>2019-01-14 09:13:37.646448</presentsUpdate>
+					<presentsTotal>646</presentsTotal>
+					<presentsAbonnes>613</presentsAbonnes>
+					<presentsHoraires>33</presentsHoraires>
+				</presents>
+			</Parc>
+			<Parc>
+				<numParc>45</numParc>
+				<libelleParc>ATHENA</libelleParc>
+				<statusParc>COMPLET</statusParc>
+				<placesLibresParc>0</placesLibresParc>
+				<placesLibresUpdate>2019-01-14 09:12:50.308366</placesLibresUpdate>
+				<presents>
+					<presentsUpdate>2019-01-14 09:13:37.705295</presentsUpdate>
+					<presentsTotal>0</presentsTotal>
+					<presentsAbonnes>16</presentsAbonnes>
+					<presentsHoraires>0</presentsHoraires>
+				</presents>
+			</Parc>
+			<Parc>
+				<numParc>46</numParc>
+				<libelleParc>DES OLIVIERS</libelleParc>
+				<statusParc>LIBRE</statusParc>
+				<placesLibresParc>21</placesLibresParc>
+				<placesLibresUpdate>2019-01-14 09:12:50.316715</placesLibresUpdate>
+				<presents>
+					<presentsUpdate>2019-01-14 09:13:37.713559</presentsUpdate>
+					<presentsTotal>6</presentsTotal>
+					<presentsAbonnes>0</presentsAbonnes>
+					<presentsHoraires>6</presentsHoraires>
+				</presents>
+			</Parc>
+			<Parc>
+				<numParc>60</numParc>
+				<libelleParc>ENGELIN</libelleParc>
+				<statusParc>LIBRE</statusParc>
+				<placesLibresParc>73</placesLibresParc>
+				<placesLibresUpdate>2019-01-14 09:12:50.333617</placesLibresUpdate>
+				<presents>
+					<presentsUpdate>2019-01-14 09:13:37.722108</presentsUpdate>
+					<presentsTotal>52</presentsTotal>
+					<presentsAbonnes>25</presentsAbonnes>
+					<presentsHoraires>27</presentsHoraires>
+				</presents>
+			</Parc>
+			<Parc>
+				<numParc>7</numParc>
+				<libelleParc>BOSIO</libelleParc>
+				<statusParc>COMPLET</statusParc>
+				<placesLibresParc>0</placesLibresParc>
+				<placesLibresUpdate>2019-01-14 09:12:50.04441</placesLibresUpdate>
+				<presents>
+					<presentsUpdate>2019-01-14 09:13:37.579327</presentsUpdate>
+					<presentsTotal>0</presentsTotal>
+					<presentsAbonnes>283</presentsAbonnes>
+					<presentsHoraires>14</presentsHoraires>
+				</presents>
+			</Parc>
+			<Parc>
+				<numParc>8</numParc>
+				<libelleParc>PLATI</libelleParc>
+				<statusParc>LIBRE</statusParc>
+				<placesLibresParc>5</placesLibresParc>
+				<placesLibresUpdate>2019-01-14 09:12:50.053555</placesLibresUpdate>
+				<presents>
+					<presentsUpdate>2019-01-14 09:13:37.587927</presentsUpdate>
+					<presentsTotal>38</presentsTotal>
+					<presentsAbonnes>30</presentsAbonnes>
+					<presentsHoraires>8</presentsHoraires>
+				</presents>
+			</Parc>
+		</Quartier>
+		<Quartier>
+			<nomQuartier>La Rousse</nomQuartier>
+			<totalLibresQuartier>0</totalLibresQuartier>
+			<totalPresentsQuartier>0</totalPresentsQuartier>
+			<totalPresentsHorairesQuartier>0</totalPresentsHorairesQuartier>
+			<totalPresentsAbonnesQuartier>0</totalPresentsAbonnesQuartier>
+			<Parc>
+				<numParc>5</numParc>
+				<libelleParc>ANNONCIADE</libelleParc>
+				<statusParc>COMPLET</statusParc>
+				<placesLibresParc>0</placesLibresParc>
+				<placesLibresUpdate>2019-01-14 09:12:50.02644</placesLibresUpdate>
+				<presents>
+					<presentsUpdate>2019-01-14 09:13:37.562576</presentsUpdate>
+					<presentsTotal>0</presentsTotal>
+					<presentsAbonnes>119</presentsAbonnes>
+					<presentsHoraires>20</presentsHoraires>
+				</presents>
+			</Parc>
+		</Quartier>
+		<Quartier>
+			<nomQuartier>Larvotto</nomQuartier>
+			<totalLibresQuartier>297</totalLibresQuartier>
+			<totalPresentsQuartier>628</totalPresentsQuartier>
+			<totalPresentsHorairesQuartier>163</totalPresentsHorairesQuartier>
+			<totalPresentsAbonnesQuartier>465</totalPresentsAbonnesQuartier>
+			<Parc>
+				<numParc>3</numParc>
+				<libelleParc>LARVOTTO</libelleParc>
+				<statusParc>LIBRE</statusParc>
+				<placesLibresParc>89</placesLibresParc>
+				<placesLibresUpdate>2019-01-14 09:12:50.008028</placesLibresUpdate>
+				<presents>
+					<presentsUpdate>2019-01-14 09:13:37.545635</presentsUpdate>
+					<presentsTotal>239</presentsTotal>
+					<presentsAbonnes>168</presentsAbonnes>
+					<presentsHoraires>71</presentsHoraires>
+				</presents>
+			</Parc>
+			<Parc>
+				<numParc>38</numParc>
+				<libelleParc>LES CARMES</libelleParc>
+				<statusParc>COMPLET</statusParc>
+				<placesLibresParc>0</placesLibresParc>
+				<placesLibresUpdate>2019-01-14 09:12:50.25769</placesLibresUpdate>
+				<presents>
+					<presentsUpdate>2019-01-14 09:13:37.663195</presentsUpdate>
+					<presentsTotal>0</presentsTotal>
+					<presentsAbonnes>43</presentsAbonnes>
+					<presentsHoraires>1</presentsHoraires>
+				</presents>
+			</Parc>
+			<Parc>
+				<numParc>4</numParc>
+				<libelleParc>GRIMALDI FORUM</libelleParc>
+				<statusParc>LIBRE</statusParc>
+				<placesLibresParc>208</placesLibresParc>
+				<placesLibresUpdate>2019-01-14 09:12:50.017401</placesLibresUpdate>
+				<presents>
+					<presentsUpdate>2019-01-14 09:13:37.554202</presentsUpdate>
+					<presentsTotal>389</presentsTotal>
+					<presentsAbonnes>297</presentsAbonnes>
+					<presentsHoraires>92</presentsHoraires>
+				</presents>
+			</Parc>
+			<Parc>
+				<numParc>43</numParc>
+				<libelleParc>TESTIMONIO</libelleParc>
+				<statusParc>COMPLET</statusParc>
+				<placesLibresParc>0</placesLibresParc>
+				<placesLibresUpdate>2019-01-14 09:12:50.291611</placesLibresUpdate>
+				<presents>
+					<presentsUpdate>2019-01-14 09:13:37.688378</presentsUpdate>
+					<presentsTotal>0</presentsTotal>
+					<presentsAbonnes>40</presentsAbonnes>
+					<presentsHoraires>43</presentsHoraires>
+				</presents>
+			</Parc>
+		</Quartier>
+		<Quartier>
+			<nomQuartier>Le Rocher</nomQuartier>
+			<totalLibresQuartier>294</totalLibresQuartier>
+			<totalPresentsQuartier>520</totalPresentsQuartier>
+			<totalPresentsHorairesQuartier>103</totalPresentsHorairesQuartier>
+			<totalPresentsAbonnesQuartier>417</totalPresentsAbonnesQuartier>
+			<Parc>
+				<numParc>12</numParc>
+				<libelleParc>PECHEURS</libelleParc>
+				<statusParc>LIBRE</statusParc>
+				<placesLibresParc>250</placesLibresParc>
+				<placesLibresUpdate>2019-01-14 09:12:50.071408</placesLibresUpdate>
+				<presents>
+					<presentsUpdate>2019-01-14 09:13:37.23299</presentsUpdate>
+					<presentsTotal>233</presentsTotal>
+					<presentsAbonnes>196</presentsAbonnes>
+					<presentsHoraires>37</presentsHoraires>
+				</presents>
+			</Parc>
+			<Parc>
+				<numParc>17</numParc>
+				<libelleParc>ABBAYE</libelleParc>
+				<statusParc>LIBRE</statusParc>
+				<placesLibresParc>8</placesLibresParc>
+				<placesLibresUpdate>2019-01-14 09:12:50.116853</placesLibresUpdate>
+				<presents>
+					<presentsUpdate>2019-01-14 09:13:37.25045</presentsUpdate>
+					<presentsTotal>15</presentsTotal>
+					<presentsAbonnes>7</presentsAbonnes>
+					<presentsHoraires>8</presentsHoraires>
+				</presents>
+			</Parc>
+			<Parc>
+				<numParc>2</numParc>
+				<libelleParc>VISITATION</libelleParc>
+				<statusParc>LIBRE</statusParc>
+				<placesLibresParc>17</placesLibresParc>
+				<placesLibresUpdate>2019-01-14 09:12:49.999097</placesLibresUpdate>
+				<presents>
+					<presentsUpdate>2019-01-14 09:13:37.198558</presentsUpdate>
+					<presentsTotal>14</presentsTotal>
+					<presentsAbonnes>11</presentsAbonnes>
+					<presentsHoraires>3</presentsHoraires>
+				</presents>
+			</Parc>
+			<Parc>
+				<numParc>41</numParc>
+				<libelleParc>LA DIGUE</libelleParc>
+				<statusParc>LIBRE</statusParc>
+				<placesLibresParc>19</placesLibresParc>
+				<placesLibresUpdate>2019-01-14 09:12:50.274416</placesLibresUpdate>
+				<presents>
+					<presentsUpdate>2019-01-14 09:13:37.351099</presentsUpdate>
+					<presentsTotal>258</presentsTotal>
+					<presentsAbonnes>203</presentsAbonnes>
+					<presentsHoraires>55</presentsHoraires>
+				</presents>
+			</Parc>
+		</Quartier>
+		<Quartier>
+			<nomQuartier>Monte-Carlo</nomQuartier>
+			<totalLibresQuartier>564</totalLibresQuartier>
+			<totalPresentsQuartier>1744</totalPresentsQuartier>
+			<totalPresentsHorairesQuartier>593</totalPresentsHorairesQuartier>
+			<totalPresentsAbonnesQuartier>1151</totalPresentsAbonnesQuartier>
+			<Parc>
+				<numParc>1</numParc>
+				<libelleParc>MOULINS</libelleParc>
+				<statusParc>LIBRE</statusParc>
+				<placesLibresParc>62</placesLibresParc>
+				<placesLibresUpdate>2019-01-14 09:12:49.981737</placesLibresUpdate>
+				<presents>
+					<presentsUpdate>2019-01-14 09:13:37.537262</presentsUpdate>
+					<presentsTotal>232</presentsTotal>
+					<presentsAbonnes>143</presentsAbonnes>
+					<presentsHoraires>89</presentsHoraires>
+				</presents>
+			</Parc>
+			<Parc>
+				<numParc>15</numParc>
+				<libelleParc>COSTA</libelleParc>
+				<statusParc>LIBRE</statusParc>
+				<placesLibresParc>4</placesLibresParc>
+				<placesLibresUpdate>2019-01-14 09:12:50.098878</placesLibresUpdate>
+				<presents>
+					<presentsUpdate>2019-01-14 09:13:37.596129</presentsUpdate>
+					<presentsTotal>178</presentsTotal>
+					<presentsAbonnes>152</presentsAbonnes>
+					<presentsHoraires>26</presentsHoraires>
+				</presents>
+			</Parc>
+			<Parc>
+				<numParc>22</numParc>
+				<libelleParc>CASINO</libelleParc>
+				<statusParc>LIBRE</statusParc>
+				<placesLibresParc>319</placesLibresParc>
+				<placesLibresUpdate>2019-01-14 09:12:50.147264</placesLibresUpdate>
+				<presents>
+					<presentsUpdate>2019-01-14 09:13:37.613043</presentsUpdate>
+					<presentsTotal>481</presentsTotal>
+					<presentsAbonnes>286</presentsAbonnes>
+					<presentsHoraires>195</presentsHoraires>
+				</presents>
+			</Parc>
+			<Parc>
+				<numParc>26</numParc>
+				<libelleParc>ST CHARLES</libelleParc>
+				<statusParc>LIBRE</statusParc>
+				<placesLibresParc>74</placesLibresParc>
+				<placesLibresUpdate>2019-01-14 09:12:50.1727</placesLibresUpdate>
+				<presents>
+					<presentsUpdate>2019-01-14 09:13:37.621349</presentsUpdate>
+					<presentsTotal>290</presentsTotal>
+					<presentsAbonnes>213</presentsAbonnes>
+					<presentsHoraires>77</presentsHoraires>
+				</presents>
+			</Parc>
+			<Parc>
+				<numParc>33</numParc>
+				<libelleParc>ST LAURENT</libelleParc>
+				<statusParc>LIBRE</statusParc>
+				<placesLibresParc>2</placesLibresParc>
+				<placesLibresUpdate>2019-01-14 09:12:50.232306</placesLibresUpdate>
+				<presents>
+					<presentsUpdate>2019-01-14 09:13:37.638065</presentsUpdate>
+					<presentsTotal>180</presentsTotal>
+					<presentsAbonnes>122</presentsAbonnes>
+					<presentsHoraires>58</presentsHoraires>
+				</presents>
+			</Parc>
+			<Parc>
+				<numParc>42</numParc>
+				<libelleParc>OSTENDE</libelleParc>
+				<statusParc>LIBRE</statusParc>
+				<placesLibresParc>29</placesLibresParc>
+				<placesLibresUpdate>2019-01-14 09:12:50.283243</placesLibresUpdate>
+				<presents>
+					<presentsUpdate>2019-01-14 09:13:37.680258</presentsUpdate>
+					<presentsTotal>129</presentsTotal>
+					<presentsAbonnes>68</presentsAbonnes>
+					<presentsHoraires>61</presentsHoraires>
+				</presents>
+			</Parc>
+			<Parc>
+				<numParc>44</numParc>
+				<libelleParc>ROQUEVILLE</libelleParc>
+				<statusParc>LIBRE</statusParc>
+				<placesLibresParc>11</placesLibresParc>
+				<placesLibresUpdate>2019-01-14 09:12:50.300002</placesLibresUpdate>
+				<presents>
+					<presentsUpdate>2019-01-14 09:13:37.696755</presentsUpdate>
+					<presentsTotal>230</presentsTotal>
+					<presentsAbonnes>156</presentsAbonnes>
+					<presentsHoraires>74</presentsHoraires>
+				</presents>
+			</Parc>
+			<Parc>
+				<numParc>6</numParc>
+				<libelleParc>LOUIS II</libelleParc>
+				<statusParc>LIBRE</statusParc>
+				<placesLibresParc>63</placesLibresParc>
+				<placesLibresUpdate>2019-01-14 09:12:50.035691</placesLibresUpdate>
+				<presents>
+					<presentsUpdate>2019-01-14 09:13:37.571115</presentsUpdate>
+					<presentsTotal>24</presentsTotal>
+					<presentsAbonnes>11</presentsAbonnes>
+					<presentsHoraires>13</presentsHoraires>
+				</presents>
+			</Parc>
+		</Quartier>
+		<Quartier>
+			<nomQuartier>la Condamine</nomQuartier>
+			<totalLibresQuartier>169</totalLibresQuartier>
+			<totalPresentsQuartier>796</totalPresentsQuartier>
+			<totalPresentsHorairesQuartier>215</totalPresentsHorairesQuartier>
+			<totalPresentsAbonnesQuartier>581</totalPresentsAbonnesQuartier>
+			<Parc>
+				<numParc>28</numParc>
+				<libelleParc>CONDAMINE</libelleParc>
+				<statusParc>LIBRE</statusParc>
+				<placesLibresParc>77</placesLibresParc>
+				<placesLibresUpdate>2019-01-14 09:12:50.189742</placesLibresUpdate>
+				<presents>
+					<presentsUpdate>2019-01-14 09:13:37.292393</presentsUpdate>
+					<presentsTotal>285</presentsTotal>
+					<presentsAbonnes>278</presentsAbonnes>
+					<presentsHoraires>7</presentsHoraires>
+				</presents>
+			</Parc>
+			<Parc>
+				<numParc>31</numParc>
+				<libelleParc>PLACE D ARMES</libelleParc>
+				<statusParc>LIBRE</statusParc>
+				<placesLibresParc>1</placesLibresParc>
+				<placesLibresUpdate>2019-01-14 09:12:50.215242</placesLibresUpdate>
+				<presents>
+					<presentsUpdate>2019-01-14 09:13:37.317529</presentsUpdate>
+					<presentsTotal>56</presentsTotal>
+					<presentsAbonnes>0</presentsAbonnes>
+					<presentsHoraires>56</presentsHoraires>
+				</presents>
+			</Parc>
+			<Parc>
+				<numParc>32</numParc>
+				<libelleParc>QUAI ANTOINE 1ER</libelleParc>
+				<statusParc>LIBRE</statusParc>
+				<placesLibresParc>65</placesLibresParc>
+				<placesLibresUpdate>2019-01-14 09:12:50.223745</placesLibresUpdate>
+				<presents>
+					<presentsUpdate>2019-01-14 09:13:37.325911</presentsUpdate>
+					<presentsTotal>174</presentsTotal>
+					<presentsAbonnes>112</presentsAbonnes>
+					<presentsHoraires>62</presentsHoraires>
+				</presents>
+			</Parc>
+			<Parc>
+				<numParc>36</numParc>
+				<libelleParc>SQUARE GASTAUD</libelleParc>
+				<statusParc>LIBRE</statusParc>
+				<placesLibresParc>20</placesLibresParc>
+				<placesLibresUpdate>2019-01-14 09:12:50.249252</placesLibresUpdate>
+				<presents>
+					<presentsUpdate>2019-01-14 09:13:37.334254</presentsUpdate>
+					<presentsTotal>195</presentsTotal>
+					<presentsAbonnes>123</presentsAbonnes>
+					<presentsHoraires>72</presentsHoraires>
+				</presents>
+			</Parc>
+			<Parc>
+				<numParc>39</numParc>
+				<libelleParc>LES AGAVES</libelleParc>
+				<statusParc>LIBRE</statusParc>
+				<placesLibresParc>6</placesLibresParc>
+				<placesLibresUpdate>2019-01-14 09:12:50.266161</placesLibresUpdate>
+				<presents>
+					<presentsUpdate>2019-01-14 09:13:37.671876</presentsUpdate>
+					<presentsTotal>86</presentsTotal>
+					<presentsAbonnes>68</presentsAbonnes>
+					<presentsHoraires>18</presentsHoraires>
+				</presents>
+			</Parc>
+		</Quartier>
+	</Document>
