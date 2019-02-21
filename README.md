@@ -41,4 +41,5 @@ Pour avoir les slides interactives, j'utilise l'extension [RISE](https://damiana
 
 * `read_data.py` : lecture des fichiers de données présent dans le dossier `data`
 * `Python tableur -- analyse données monaco parking.ipynb` : notebook de la présentation
+* `slides.html` : version statique de la présentation (il faut pouvoir servir les fichiers statiques)
 * images : toutes les images utilisées dans la présentation
