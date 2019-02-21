@@ -9,6 +9,8 @@ Talk sur la base de la manipulation / traitement de données en python
 
 * pour lancer le notebook : `jupyter notebook`
 * pour voir la présentation statique :
+    * accessible ici : http://falce.net/presentation/python_pandas_monaco_parking/slides.html
+* pour servir la présentation en local    
     * lancer un serveur web `python -m http.server 9898`
     * ouvrir son navigateur sur l'adresse http://localhost:9898/slides.html
     * fermer le serveur en faisant `ctrl-c`
